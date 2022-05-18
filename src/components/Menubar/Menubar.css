@@ -1,0 +1,15 @@
+.brandcolor{
+    color: rgb(250, 35, 35);
+}
+
+.buttoncolor{
+    background-color: rgb(250, 35, 35);
+}
+.buttoncolor:hover{
+    background-color: rgb(250, 35, 35);
+    color: white;
+}
+
+.link{
+    text-decoration: none;
+}
